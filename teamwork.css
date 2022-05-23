@@ -1,0 +1,17 @@
+.resim_1 {
+    width: 1400px;
+    height: 200px;
+    margin: 50px;
+}
+
+.sol {
+    float: left;
+    padding: 0 80px 20px 0px;
+    /* padding icerigin etrafinda bosluk olusturmak icin kullanilir. Mesela resimin saginda solunda bosluk olusturmak icin. */
+}
+.harfler{
+    color: blueviolet;
+}
+.border {
+    border: 1;
+}
